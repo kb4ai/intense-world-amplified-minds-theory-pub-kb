@@ -13,8 +13,7 @@ The materials in this collection explore how neurodivergent minds (autism, ADHD,
 ## Core Documents
 
 ### Original Sources & Inspiration
-- [`genericartdad-youtube-intense-world-theory-transcript-2024-x-17rfgkixq.md`](genericartdad-youtube-intense-world-theory-transcript-2024-x-17rfgkixq.md) - Original YouTube transcript that sparked this research
-- [`genericartdad-youtube-intense-world-theory-transcript-formatted.md`](genericartdad-youtube-intense-world-theory-transcript-formatted.md) - Formatted version with clear sections
+- [`genericartdad-youtube-intense-world-theory-transcript.md`](genericartdad-youtube-intense-world-theory-transcript.md) - YouTube transcript that sparked this research
 - [`personal-theory-request-initial-notes-dyslexia-neurodiversity.md`](personal-theory-request-initial-notes-dyslexia-neurodiversity.md) - Personal experiences and initial theoretical framework
 
 ### Deep Research Outputs
