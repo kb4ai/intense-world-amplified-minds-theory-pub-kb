@@ -52,15 +52,13 @@ graph LR
     %% Styling
     classDef processor fill:#e1f5fe,stroke:#01579b,stroke-width:2px
     
-    %% Hyperlinks
+    %% Hyperlinks - Note: Only external URLs work in GitHub Mermaid
     click YT "https://youtu.be/x-17rFGkixQ?si=1Yvr3nsUaKi9ycf-" "Watch Intense World Theory video"
-    click Prompt "./personal-theory-request-initial-notes-dyslexia-neurodiversity.md" "View original prompt"
-    click ClaudeOut "./claude-opus-4-deep-research-amplified-minds-boundary-transcending-theory.md" "Read Claude Opus 4 analysis"
-    click O3Out "./o3-deep-research-neurodiversity-amplified-minds-scientific-synthesis.md" "Read OpenAI o3 synthesis"
-    click PerplexityOut "./perplexity-ai-deep-research-intense-world-theory-neuroscientific-framework.md" "Read Perplexity academic analysis"
-    click GrokOut "./grok-3-deep-research-amplified-minds-theory-output.md" "Read Grok 3 analysis"
-    click GeminiOut "./gemini-2-5-pro-deep-research-amplified-minds-theory-output.md" "Read Gemini 2.5 Pro perspective"
 ```
+
+**Quick Navigation** (GitHub blocks internal links in Mermaid):
+- **Input Sources**: [YouTube Video](https://youtu.be/x-17rFGkixQ?si=1Yvr3nsUaKi9ycf-) | [Original Prompt](personal-theory-request-initial-notes-dyslexia-neurodiversity.md)
+- **Deep Research Outputs**: [Claude Opus 4](claude-opus-4-deep-research-amplified-minds-boundary-transcending-theory.md) | [OpenAI o3](o3-deep-research-neurodiversity-amplified-minds-scientific-synthesis.md) | [Perplexity](perplexity-ai-deep-research-intense-world-theory-neuroscientific-framework.md) | [Grok 3](grok-3-deep-research-amplified-minds-theory-output.md) | [Gemini 2.5 Pro](gemini-2-5-pro-deep-research-amplified-minds-theory-output.md)
 
 ## Core Documents
 
