@@ -10,6 +10,58 @@ This thought exercise was inspired by the video [**"What is the 'Intense World T
 
 The materials in this collection explore how neurodivergent minds (autism, ADHD, dyslexia, HSP, etc.) may operate not from deficit but from amplification - processing more information more intensely, with both advantages and challenges.
 
+```mermaid
+graph LR
+    %% Input sources
+    YT["Intense World Theory YT"]
+    Prompt["Prompt"]
+    
+    %% AI processing nodes (trapezoid shape)
+    Claude["Claude<br/>Opus 4"]:::processor
+    O3["OpenAI o3"]:::processor
+    Perplexity["Perplexity AI<br/>(focus=academic)"]:::processor
+    Grok["xAI<br/>Grok 3"]:::processor
+    Gemini["Google<br/>Gemini 2.5 Pro"]:::processor
+    
+    %% Output documents
+    ClaudeOut["Opus 4 Deep Research"]
+    O3Out["o3 Deep Research"]
+    PerplexityOut["Perplexity Deep Research<br/>(academic papers focus)"]
+    GrokOut["Grok 3 Deep Research"]
+    GeminiOut["Gemini 2.5 Pro Deep Research"]
+    
+    %% Connections
+    YT --> Claude
+    YT --> O3
+    YT --> Perplexity
+    YT --> Grok
+    YT --> Gemini
+    
+    Prompt --> Claude
+    Prompt --> O3
+    Prompt --> Perplexity
+    Prompt --> Grok
+    Prompt --> Gemini
+    
+    Claude --> ClaudeOut
+    O3 --> O3Out
+    Perplexity --> PerplexityOut
+    Grok --> GrokOut
+    Gemini --> GeminiOut
+    
+    %% Styling
+    classDef processor fill:#e1f5fe,stroke:#01579b,stroke-width:2px
+    
+    %% Hyperlinks
+    click YT "https://youtu.be/x-17rFGkixQ?si=1Yvr3nsUaKi9ycf-" "Watch Intense World Theory video"
+    click Prompt "./personal-theory-request-initial-notes-dyslexia-neurodiversity.md" "View original prompt"
+    click ClaudeOut "./claude-opus-4-deep-research-amplified-minds-boundary-transcending-theory.md" "Read Claude Opus 4 analysis"
+    click O3Out "./o3-deep-research-neurodiversity-amplified-minds-scientific-synthesis.md" "Read OpenAI o3 synthesis"
+    click PerplexityOut "./perplexity-ai-deep-research-intense-world-theory-neuroscientific-framework.md" "Read Perplexity academic analysis"
+    click GrokOut "./grok-3-deep-research-amplified-minds-theory-output.md" "Read Grok 3 analysis"
+    click GeminiOut "./gemini-2-5-pro-deep-research-amplified-minds-theory-output.md" "Read Gemini 2.5 Pro perspective"
+```
+
 ## Core Documents
 
 ### Original Sources & Inspiration
@@ -21,7 +73,7 @@ The materials in this collection explore how neurodivergent minds (autism, ADHD,
 **Model-Generated Analyses:**
 * [Claude Opus 4: "Amplified Minds Boundary-Transcending Theory"](claude-opus-4-deep-research-amplified-minds-boundary-transcending-theory.md) ([prompt](claude-opus-4-deep-research-original-prompt.md), [metadata](claude-opus-4-deep-research-generation-metadata.md))
 * [OpenAI o3: "Neurodiversity Amplified Minds Scientific Synthesis"](o3-deep-research-neurodiversity-amplified-minds-scientific-synthesis.md) ([prompt with agent Q&A](o3-deep-research-amplified-minds-theory-prompt-with-agent-questions.md))
-* [Perplexity AI: "Intense World Theory Neuroscientific Framework"](perplexity-ai-deep-research-intense-world-theory-neuroscientific-framework.md)
+* [Perplexity AI (focus=academic): "Intense World Theory Neuroscientific Framework"](perplexity-ai-deep-research-intense-world-theory-neuroscientific-framework.md)
 * [Grok 3: "Amplified Minds Theory Analysis"](grok-3-deep-research-amplified-minds-theory-output.md)
 * [Gemini 2.5 Pro: "Amplified Minds Theory Perspective"](gemini-2-5-pro-deep-research-amplified-minds-theory-output.md)
 
