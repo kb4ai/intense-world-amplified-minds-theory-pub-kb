@@ -2,6 +2,10 @@
 
 This repository contains a comprehensive collection of research, theories, and synthesis work on the Intense World Theory and the broader concept of "Amplified Minds" as a framework for understanding neurodiversity.
 
+## Inspiration & Origin
+
+This thought exercise was inspired by the video [**"What is the 'Intense World Theory'"**](https://youtu.be/x-17rFGkixQ?si=1Yvr3nsUaKi9ycf-) by [GenericArtDad](https://www.youtube.com/@GenericArtDad), which encourages brainstorming and conversation around neurodiversity. The video raises awareness about how many diagnostic criteria and understanding of neurodivergent experiences have only become possible recently, making these topics fresh, recent, and ripe for proper analysis, research, and collaborative work.
+
 ## Overview
 
 The materials in this collection explore how neurodivergent minds (autism, ADHD, dyslexia, HSP, etc.) may operate not from deficit but from amplification - processing more information more intensely, with both advantages and challenges.
