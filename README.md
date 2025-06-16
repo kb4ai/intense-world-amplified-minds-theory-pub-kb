@@ -16,21 +16,14 @@ The materials in this collection explore how neurodivergent minds (autism, ADHD,
 - [`genericartdad-youtube-intense-world-theory-transcript.md`](genericartdad-youtube-intense-world-theory-transcript.md) - YouTube transcript that sparked this research
 - [`personal-theory-request-initial-notes-dyslexia-neurodiversity.md`](personal-theory-request-initial-notes-dyslexia-neurodiversity.md) - Personal experiences and initial theoretical framework
 
-### Deep Research Outputs
+### Deep Research Results
 
-#### o3 Model Research
-- [`o3-deep-research-amplified-minds-theory-prompt-with-agent-questions.md`](o3-deep-research-amplified-minds-theory-prompt-with-agent-questions.md) - Original prompt with agent clarifying questions
-- [`o3-deep-research-neurodiversity-amplified-minds-scientific-synthesis.md`](o3-deep-research-neurodiversity-amplified-minds-scientific-synthesis.md) - Comprehensive scientific synthesis
-
-#### Claude Opus 4 Research
-- [`claude-opus-4-deep-research-amplified-minds-boundary-transcending-theory.md`](claude-opus-4-deep-research-amplified-minds-boundary-transcending-theory.md) - Polymathic interdisciplinary theory
-- [`claude-opus-4-deep-research-original-prompt.md`](claude-opus-4-deep-research-original-prompt.md) - Original research prompt
-- [`claude-opus-4-deep-research-generation-metadata.md`](claude-opus-4-deep-research-generation-metadata.md) - Generation metadata
-
-#### Other Model Outputs
-- [`perplexity-ai-deep-research-intense-world-theory-neuroscientific-framework.md`](perplexity-ai-deep-research-intense-world-theory-neuroscientific-framework.md) - Neuroscientific framework analysis
-- [`gemini-2-5-pro-deep-research-amplified-minds-theory-output.md`](gemini-2-5-pro-deep-research-amplified-minds-theory-output.md) - Gemini's perspective
-- [`grok-3-deep-research-amplified-minds-theory-output.md`](grok-3-deep-research-amplified-minds-theory-output.md) - Grok's analysis
+**Model-Generated Analyses:**
+* [Claude Opus 4: "Amplified Minds Boundary-Transcending Theory"](claude-opus-4-deep-research-amplified-minds-boundary-transcending-theory.md) ([prompt](claude-opus-4-deep-research-original-prompt.md), [metadata](claude-opus-4-deep-research-generation-metadata.md))
+* [OpenAI o3: "Neurodiversity Amplified Minds Scientific Synthesis"](o3-deep-research-neurodiversity-amplified-minds-scientific-synthesis.md) ([prompt with agent Q&A](o3-deep-research-amplified-minds-theory-prompt-with-agent-questions.md))
+* [Perplexity AI: "Intense World Theory Neuroscientific Framework"](perplexity-ai-deep-research-intense-world-theory-neuroscientific-framework.md)
+* [Grok 3: "Amplified Minds Theory Analysis"](grok-3-deep-research-amplified-minds-theory-output.md)
+* [Gemini 2.5 Pro: "Amplified Minds Theory Perspective"](gemini-2-5-pro-deep-research-amplified-minds-theory-output.md)
 
 ## Key Concepts
 
