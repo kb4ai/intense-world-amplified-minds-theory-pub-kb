@@ -63,6 +63,10 @@ graph LR
 ```
 
 
+## Audio Resources
+
+🎧 **[Listen to AI-generated audio podcast discussion of this research](https://notebooklm.google.com/notebook/0c1e834c-5129-49e1-95aa-af0b71942412/audio)** - Created with Google NotebookLM
+
 ## Core Documents
 
 ### Original Sources & Inspiration
